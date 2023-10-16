@@ -34,7 +34,7 @@ I'm always open to collaborating on exciting projects related to software develo
 
 You can reach out to me through:
 
-- 📧 Email: [martin.simel@example.com](mailto:martin.simel@example.com)
+- 📧 Email: [martin.simel@example.com](mailto:martinsimel@gmail.com)
 
 - 🔗 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/martinsimel/)
 
