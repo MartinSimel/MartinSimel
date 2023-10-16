@@ -22,7 +22,7 @@ I'm deeply interested in:
 
 I'm on a continuous learning journey. Currently, I'm focused on:
 
-- **Learning New Programming Languages**: I'm expanding my language repertoire to stay versatile in the ever-evolving tech landscape.
+- **Learning New Programming Languages**: I'm expanding my language repertoire to stay versatile in the ever-evolving tech landscape..
 
 - **Data Science Skills**: I'm sharpening my data science skills by exploring advanced statistical analysis, data visualization, and machine learning algorithms.
 
